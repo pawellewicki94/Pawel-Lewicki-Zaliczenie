@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f0bcbaec-b8d0-472a-bc62-d183df52f06d}">
+		<property name="assetPath">
+			<value>SwordFightCutlass_BW.59142.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25.525333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff01561c-3aa4-4693-bbf8-2c9e37b2324e}</destination>
+		</relationship>
+	</object>
+</objects>

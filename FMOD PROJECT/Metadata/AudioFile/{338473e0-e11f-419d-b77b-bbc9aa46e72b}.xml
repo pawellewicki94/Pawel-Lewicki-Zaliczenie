@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{338473e0-e11f-419d-b77b-bbc9aa46e72b}">
+		<property name="assetPath">
+			<value>FF_TM_chisel_wood_large_hammer_sequence_.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.9055782312925169</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff01561c-3aa4-4693-bbf8-2c9e37b2324e}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWAsset" id="{ece0f2e4-d677-4c7a-8457-6b300f55770c}">
+		<property name="assetPath">
+			<value>Village Reaper FMOD Linked.RPP.link/Dirt Footstep-016.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.57599999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff01561c-3aa4-4693-bbf8-2c9e37b2324e}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{aaf410de-d735-42d3-9887-da16d2812dc4}</destination>
+		</relationship>
+	</object>
+</objects>

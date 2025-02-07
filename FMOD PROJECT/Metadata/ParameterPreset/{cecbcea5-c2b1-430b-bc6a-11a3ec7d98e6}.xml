@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{cecbcea5-c2b1-430b-bc6a-11a3ec7d98e6}">
+		<property name="name">
+			<value>InsideFilter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c282fa75-8caa-4692-a6c7-fa6665e4495a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{594159e1-76a1-465e-b4a3-d9bee3a990f0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{594159e1-76a1-465e-b4a3-d9bee3a990f0}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.88999998569488525</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5a373163-51e8-4f51-83a4-485fad367d9a}">
+		<property name="assetPath">
+			<value>Ambiences/freetousesounds - Tonal Wind Sound Effects Library - Howls - 81 WINDTonl_Wind, Tonal, Strong, Stone House, Coastal, Birds Chirping, Dingli Cliffs, Malta, 19232, 01.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>124.21211979166667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff01561c-3aa4-4693-bbf8-2c9e37b2324e}</destination>
+		</relationship>
+	</object>
+</objects>

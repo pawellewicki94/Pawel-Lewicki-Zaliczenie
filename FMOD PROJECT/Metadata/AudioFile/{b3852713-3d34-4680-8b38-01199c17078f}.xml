@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b3852713-3d34-4680-8b38-01199c17078f}">
+		<property name="assetPath">
+			<value>freetousesounds - Fishermen Harbor Sound Effects - Rampling Boats, Lapping Waves &amp; Underwater Sounds - Malaysi - 03 Rampling Boats, Lapping Waves &amp; Squeezing Tires Part 03.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>178.92889062500001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff01561c-3aa4-4693-bbf8-2c9e37b2324e}</destination>
+		</relationship>
+	</object>
+</objects>

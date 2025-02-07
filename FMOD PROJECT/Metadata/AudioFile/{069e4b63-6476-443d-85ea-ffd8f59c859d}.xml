@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{069e4b63-6476-443d-85ea-ffd8f59c859d}">
+		<property name="assetPath">
+			<value>freetousesounds - Korean Sound Libraries - Jeju Island Sea - 01 AMBSea_Ambience, Seaside, Coastal, Distance Ocean Roar, Calm, Evening, Flies, Daytime, Jeju Island, Korea, 19224.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>128.33302604166667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff01561c-3aa4-4693-bbf8-2c9e37b2324e}</destination>
+		</relationship>
+	</object>
+</objects>

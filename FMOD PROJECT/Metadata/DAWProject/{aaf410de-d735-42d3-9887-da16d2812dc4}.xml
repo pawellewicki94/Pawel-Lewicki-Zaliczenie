@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWProject" id="{aaf410de-d735-42d3-9887-da16d2812dc4}">
+		<property name="assetPath">
+			<value>Village Reaper FMOD Linked.RPP.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>/Users/pawellewicki/Unity Projects/Village Reaper FMOD Linked/Village Reaper FMOD Linked.RPP</value>
+		</property>
+		<property name="renderedAssetsPath">
+			<value>Rendered</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff01561c-3aa4-4693-bbf8-2c9e37b2324e}</destination>
+		</relationship>
+	</object>
+</objects>
